@@ -20,9 +20,7 @@ Portfolio of projects showcasing Excel with AI automation, SQL data cleaning, an
 This project analyzes product sales data and builds an interactive revenue dashboard using Excel Pivot Tables, SQL, and Power BI.
 
 ## Tools & Skills
-- Excel with AI (Pivot Tables, Automation, Predictive Analytics)
-- SQL (Data Cleaning & Queries)
-- Power BI (Visualization & Dashboards)
+- Excel (Pivot Tables, Charts, Automation)
 
 ## Key Insights
 - Identified top-performing products using Pivot Table summaries
@@ -34,9 +32,7 @@ This project analyzes product sales data and builds an interactive revenue dashb
 This project builds a Power BI dashboard to track smartphone retail performance across regions and product categories.
 
 ## Tools & Skills
-- Power BI (Interactive Dashboards, KPI Tracking)
-- SQL (Data Cleaning & Queries)
-- Excel with AI (Data Preparation)
+- Power BI (Interactive Dashboards, KPI Tracking, DAX formulas)
 
 ## Key Insights
 - Regional sales comparison for smartphones
@@ -49,8 +45,6 @@ This project uses SQL queries to manage and analyze online bookstore data, inclu
 
 ## Tools & Skills
 - SQL (Database Design, Queries, Joins)
-- Excel with AI (Data Cleaning & Analysis)
-- Power BI (Visualization)
 
 ## Key Insights
 - Automated query to track top-selling books
