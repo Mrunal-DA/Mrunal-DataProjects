@@ -14,9 +14,7 @@ Portfolio of projects showcasing Excel with AI automation, SQL data cleaning, an
 - **Online Book Store (SQL)**
   - Database queries for customers, orders, and inventory
   - Insights on top-selling books and customer trends
-
-# Mrunal-DataProjects
-Portfolio of projects showcasing Excel with AI automation, SQL data cleaning, and Power BI visualization for business decision-making.
+    
 
 # Product Sales & Revenue Dashboard
 This project analyzes product sales data and builds an interactive revenue dashboard using Excel Pivot Tables, SQL, and Power BI.
