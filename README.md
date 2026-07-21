@@ -3,7 +3,7 @@ Portfolio of projects showcasing Excel with AI automation, SQL data cleaning, an
 
 ## Projects Overview
 
-- **Product Sales & Revenue Dashboard (Excel + SQL + Power BI)**
+- **Product Sales & Revenue Dashboard (Excel)**
   - Tracks product-wise sales and revenue trends
   - Automated monthly analysis with interactive filters
 
